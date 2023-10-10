@@ -1,16 +1,17 @@
-# 创建型模式
-
-## 三种Factory比较
+# 三种Factory比较
 
 * 简单工厂
+
 ![simple factory](../.img/simple_factory.png)
 
 
 * 工厂方法
+
 ![factory method](../.img/factory_method.png)
 
 
 * 抽象工厂
+
 ![abstract factory](../.img/abstract_factory.png)
 
 ### 区别
