@@ -8,4 +8,4 @@
 
 * 比如这个例子，各种设备可以实现Device接口作为底层逻辑，而Remote类（遥控器）可以集成底层功能封装为高一级的抽象逻辑。
 
-![bridge](../../.img/example-bridge.png)
+![bridge](../../.img/example-bridge.png?raw=true)

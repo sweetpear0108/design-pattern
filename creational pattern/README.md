@@ -2,17 +2,17 @@
 
 * 简单工厂
 
-![simple factory](../.img/simple_factory.png)
+![simple factory](../.img/simple_factory.png?raw=true)
 
 
 * 工厂方法
 
-![factory method](../.img/factory_method.png)
+![factory method](../.img/factory_method.png?raw=true)
 
 
 * 抽象工厂
 
-![abstract factory](../.img/abstract_factory.png)
+![abstract factory](../.img/abstract_factory.png?raw=true)
 
 ### 区别
 ```

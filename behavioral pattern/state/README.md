@@ -4,7 +4,7 @@
 
 状态模式用于分离状态和行为。
 
-![state](../../.img/state.png)
+![state](../../.img/state.png?raw=true)
 
 与策略模式比较类似，只不过状态模式类似于有限状态机`Finite-State Machine`,他涉及状态的转换，由某一个状态
 自己进行切换操作，改变context中的state，而策略模式则是使用者对策略进行选择

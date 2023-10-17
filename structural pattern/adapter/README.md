@@ -14,8 +14,8 @@ btw：适配器模式在可以多继承的语言中还有一种名为 `class ada
 
 ## object adapter
 
-![object](../../.img/structure-object-adapter.png)
+![object](../../.img/structure-object-adapter.png?raw=true)
 
 ## class adapter
 
-![class](../../.img/structure-class-adapter.png)
+![class](../../.img/structure-class-adapter.png?raw=true)

@@ -6,4 +6,4 @@
 
 中介者的change使用switch判断类型。
 
-![mediator](../../.img/mediator.png)
+![mediator](../../.img/mediator.png?raw=true)

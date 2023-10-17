@@ -4,6 +4,6 @@
 
 可以使用迭代器模式使遍历同时应用迭代策略，如请求新对象、过滤、处理对象等。
 
-![iterator](../../.img/iterator.png)
+![iterator](../../.img/iterator.png?raw=true)
 
 数据放在collection中，而iterator中则包含当前迭代状态（数组index……）和迭代相关的方法
