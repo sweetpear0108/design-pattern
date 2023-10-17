@@ -5,7 +5,7 @@
 
 在这个 `simplefactory` 包中只有API 接口和 `NewAPI` 函数为包外可见，封装了实现细节。
 
-pro: 实现简单
+pros: 实现简单
 
 cons:`Factory is "fixed"` 再添加新的类是要修改factory函数
 
