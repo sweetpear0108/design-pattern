@@ -6,5 +6,5 @@
 
 每种策略都是一个独立的实现类，在context类中进行策略切换
 
-与状态模式区别：[difference](https://github.com/sweetpear0108/design-pattern/blob/e45023e7b6d1a395aa49cb62a2288ec1ff587663/behavioral%20pattern/state/README.md)
+与状态模式区别：[difference](https://github.com/sweetpear0108/design-pattern/tree/master/behavioral%20pattern/state/README.md)
 
